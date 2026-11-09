@@ -1,0 +1,7 @@
+{
+  "name": "ProServe - Service Marketplace",
+  "description": "On-demand service marketplace connecting customers with verified professionals for home services, repairs, cleaning, beauty, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
